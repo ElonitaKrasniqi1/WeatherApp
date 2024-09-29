@@ -20,5 +20,5 @@ Check out the live app: [Simple Weather App](https://simpleweatherapp2.netlify.a
 ### Local Setup 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/elonita/simple-weather-app.git
+   git clone https://github.com/ElonitaKrasniqi1/WeatherApp
 
